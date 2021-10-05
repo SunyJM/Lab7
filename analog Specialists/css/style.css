@@ -1,10 +1,8 @@
 body {
-  /*
-  set font-size to 80%;
-  set font-family to "Courier New", Courier, monospace;
+  font-size: 80%;
+  font-family: "Courier New", Courier, monospace;
   set letter-spacing to 0.15em;
   change background-color to #efefef;
-  */
 }
 #page {
   /*
