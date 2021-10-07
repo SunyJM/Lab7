@@ -1,81 +1,58 @@
-/*Your Name and today's date */
+/*JohnMichael Mazzani 10/7/21 */
 
 body {
-	  /*
-		set color to #FFFFFF;
-	  set background-color to #C9E4FF;
-	  set font-family to Calibri, sans-serif;
-		*/
+		color: #FFFFFF;
+	  background-color: #C9E4FF;
+	  font-family: 'Calibri', sans-serif;
 }
 
 #outer-wrapper {
-	      /*
-				make the width of 90%
-				set margin top 0, right auto, bottom 0, left auto; Use shorthand.
-				*/
+				width: 90%;
+				margin: 0px auto 0px auto;
 }
 
 header, nav, #content, footer
 {
-
-	/* set background-color to #4CA6FF;
-   	set padding to 10px;
-	 */
+		background-color: #4CA6FF;
+   	padding: 10px;
 }
 
 footer {
-	   /*
-		 set font-size to 0.75em;
-		 center align text;
-		 */
+		 font-size: 0.75em;
+		 text-align: center;
 }
 
 img {
-	/*
-   float image to the left
-	 set padding to none;
-
-	*/
+   float: left;
+	 padding: none;
 }
 
 .rightmargin {
-	/*
-	set margin-right to 2%;
-	*/
+	margin-right: 2%;
 }
 
 h1,h2,h3{
-	/*
-	set font-family to Verdana, sans-serif;
-	add padding to the top of 1%;
-	*/
+	font-family: 'Verdana', sans-serif;
+	padding-top: 1%;
 }
 
 li{
-	/*
-	set list-style-type: none;
-	set float to the left;
-	set padding of 5px;
-	 */
+	list-style-type: none;
+	float: left;
+	padding: 5px;
 }
 
 ul{
-	/*
-	set the padding-bottom to 1%;
-	 */
+	padding-bottom: 1%;
 }
 
 nav{
-	/*
-	set background-color to #C9E4FF;
-	 */
+	background-color: #C9E4FF;
 }
 
 header{
-	/*
-	set background-color to #4ca6ff;
-	padding: 0 2% 2% 0;
-	*/
+	background-color: #4ca6ff;
+	padding: 0px 2% 2% 0px;
 }
 
 .clearfloat{
