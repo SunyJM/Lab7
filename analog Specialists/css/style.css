@@ -7,7 +7,7 @@ body {
 #page {
   max-width: 940px;
   min-width: 720px;
-  margin top: 10px auto 10px auto;
+  margin: 10px auto 10px auto;
   padding: 20px;
   border: 4px double #000;
   background-color: #ffffff;
